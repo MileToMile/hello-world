@@ -1,2 +1,5 @@
 # hello-world
-My first repository.
+
+Good morning to everyone,
+
+I'm a mechanical engineer and I'm approaching to GitHub.
